@@ -25,6 +25,5 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-@import url(./assets/css/material-dashboard.min.css);
-@import url(./assets/demo/demo.css);
+
 </style>
